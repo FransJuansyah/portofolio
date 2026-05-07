@@ -41,7 +41,7 @@ export default function About() {
             <div style={{ display:'flex', gap:10, flexWrap:'wrap' }}>
               <a href="mailto:difajuansyah@gmail.com" className="btn btn-p btn-sm">Get in Touch</a>
               <a href="https://github.com/FransJuansyah" target="_blank" rel="noreferrer" className="btn btn-o btn-sm">GitHub</a>
-              <a href="https://www.linkedin.com/in/fransjuansyah/" target="_blank" rel="noreferrer" className="btn btn-o btn-sm">LinkedIn</a>
+              <a href="https://www.linkedin.com/in/frans-juansyah-riolando-30074532b/" target="_blank" rel="noreferrer" className="btn btn-o btn-sm">LinkedIn</a>
             </div>
           </div>
 
